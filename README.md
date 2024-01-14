@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaswanthi Mamidisetty</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.co.in/imgres?imgurl=https%3A%2F%2Fassets-global.website-files.com%2F5c19100c2b50073e6ee69da1%2F60d34f3b422c048fb72cb925_Analyze.gif&tbnid=aYFgCTkNANExVM&vet=12ahUKEwjC_pP3z9yDAxUMomMGHfhXBzsQMygIegQIARBm..i&imgrefurl=https%3A%2F%2Fwww.onebridge.tech%2Fpost%2Fwhat-is-a-data-analyst-and-should-i-hire-one&docid=xLW_H5EqWMOzQM&w=500&h=500&q=data%20analyst%20gif%20image&hl=en&ved=2ahUKEwjC_pP3z9yDAxUMomMGHfhXBzsQMygIegQIARBm#imgrc=aYFgCTkNANExVM&imgdii=Q4C16rJO2gCfJM">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gettingstarted2020&label=Profile%20views&color=0e75b6&style=flat" alt="gettingstarted2020" /> </p>
 
 - 🌱 I’m currently learning **Excel , Power BI , SQL , Python , Canva**
