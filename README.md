@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gettingstarted2020&label=Profile%20views&color=0e75b6&style=flat" alt="gettingstarted2020" /> </p>
 
-- 🌱 I’m currently learning **Excel , Power BI , SQL , Python , Canva**
+- 🌱 I’m proficient in  **Excel , Power BI , SQL , Python **
 
-- 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/jaswanthimamidisetty](https://www.novypro.com/profile_projects/jaswanthimamidisetty)
+- 👨‍💻 My Power BI projects are available at [https://www.novypro.com/profile_projects/jaswanthimamidisetty](https://www.novypro.com/profile_projects/jaswanthimamidisetty)
 
 - 📝 I regularly write articles on [https://medium.com/@jaswanthisoni](https://medium.com/@jaswanthisoni)
 
